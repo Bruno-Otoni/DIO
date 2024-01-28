@@ -3,7 +3,7 @@
 let nomeDoHeroi = "'Tiozinho quer Aprender'"
 let xp = 1
 
-let pocaoDeXP = function() {
+function pocaoDeXP() {
     xp += 1000
 }
 
